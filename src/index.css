@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.djs-palette {
+  background: white !important;
+  border: 1px solid #e5e7eb !important;
+  border-radius: 0.5rem !important;
+}
+
+.djs-container {
+  background-color: #f9fafb !important;
+}
+
+.bjs-powered-by {
+  display: none !important;
+}
